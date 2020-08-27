@@ -1,8 +1,10 @@
-# USDA-ARS Carpentries Workshop
+# USDA-ARS-2020-Aug
 
-## August 26-27, 2020
+## USDA-ARS Carpentries Workshop
 
-## Python Day 2 - Jupyter Lab Notebooks
+### August 26-27, 2020
 
-* blank code cells for students to fill in interactively
+### Python Day 2 - Jupyter Lab Notebooks
+
+* Jupyter notebooks with blank code cells for students to fill in interactively
 
